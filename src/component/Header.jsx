@@ -23,7 +23,7 @@ const Header = () => {
             
           
         </div>
-        <div className="flex flex-col bg-[url('hero.jpg')] h-[500px] text-center   px-4">
+        <div className="flex flex-col bg-[url('/public/hero.jpg')] h-[500px] text-center   px-4">
           <div className="text-center">
             <p className="text-white py-[84px] px-11 w-[320px]  text-2xl font-semibold sm:w-[290px] text-center lg:w-[800px] lg:text-[50px] lg:text-center lg:ml-72 lg:leading-[60px]">
               uicookies.com Creates High Quality Bootstrap Template For Free
