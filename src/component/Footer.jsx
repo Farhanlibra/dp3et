@@ -9,7 +9,7 @@ const Footer = () => {
           <TwitterOutlined className='mr-7' /><WhatsAppOutlined className='mr-7' /><YoutubeOutlined className='mr-7' /><LinkedinOutlined />
           </h1>
           <p className="text-lg mx-auto lg:w-[700px] pb-6">
-          © 2019 Frame. All Rights Reserved.
+          © 2024 Ahmed Farhan. All Rights Reserved.
 Designed & Bootstrap templates by uiCookies
 Demo Images by Unsplash
           </p>
