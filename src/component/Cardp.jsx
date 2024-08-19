@@ -5,7 +5,7 @@ const Cardp = () => (
     
     bordered={false}
     style={{
-      width: 330,
+      width: 300,
     }}
   >
     <p className='text-center text-2xl pt-4'>STARTER</p>
