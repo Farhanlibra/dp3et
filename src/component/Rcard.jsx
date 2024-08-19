@@ -5,7 +5,7 @@ const Rcard = () => (
   <Card className='my-5 w-full'
     hoverable
     style={{
-      width: 340,
+      width: 280,
     }}
     cover={<img alt="example" src="https://os.alipayobjects.com/rmsportal/QBnOOoLaAfKPirc.png" />}
   >
