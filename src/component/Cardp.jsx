@@ -1,7 +1,7 @@
 import React from 'react';
 import { Card } from 'antd';
 const Cardp = () => (
-  <Card className='border border-stone-500 shadow-2xl'
+  <Card className='border w-full border-stone-500 shadow-2xl'
     
     bordered={false}
     style={{

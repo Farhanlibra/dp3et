@@ -2,7 +2,7 @@ import React from 'react';
 import { Card } from 'antd';
 const { Meta } = Card;
 const Rcard = () => (
-  <Card className='my-5'
+  <Card className='my-5 w-full'
     hoverable
     style={{
       width: 340,
