@@ -13,7 +13,7 @@ import Footer from "../component/Footer";
 const Home = () => {
   return (
     <>
-      <main className=" min-h-screen px-4 sm:w-full mx-auto">
+      <main className=" min-h-screen max-w-small px-4 sm:w-full mx-auto">
       
 
         <div className="intro flex flex-col lg:flex-row gap-8 lg:p-28">
