@@ -6,11 +6,11 @@ const Price = () => {
     <div>
          <div className="price flex flex-col mx-auto">
           <div className="heading">
-            <h1 className="text-center text-4xl font-bold py-5">
+            <h1 className="text-center text-xl font-bold  mx-autopy-5">
               Choose the plan that’s right for your business
             </h1>
             <hr className="text-blue-900 font-extrabold w-9 text-center mx-auto py-5" />
-            <p className="text-center w-[280px] mb-16 text-[18px]">
+            <p className="text-center w-[280px] mb-16 text-[18px] mx-auto">
               Even the all-powerful Pointing has no control about the blind
               texts it is an almost unorthographic life One day however a small
               line of blind text by the name of Lorem Ipsum decided to leave for
