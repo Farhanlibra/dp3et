@@ -10,7 +10,7 @@ const Price = () => {
               Choose the plan that’s right for your business
             </h1>
             <hr className="text-blue-900 font-extrabold w-9 text-center mx-auto py-5" />
-            <p className="text-center mb-16 text-[18px]">
+            <p className="text-center w-[280px] mb-16 text-[18px]">
               Even the all-powerful Pointing has no control about the blind
               texts it is an almost unorthographic life One day however a small
               line of blind text by the name of Lorem Ipsum decided to leave for
