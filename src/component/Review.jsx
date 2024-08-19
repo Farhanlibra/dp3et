@@ -5,7 +5,7 @@ import Rcard from './Rcard'
 const Review = () => {
   return (
     <div>
-        <div className="review bg-pink-400">
+        <div className="review bg-pink-400 mt-6">
           <div className="heading">
             <h1 className="text-center text-4xl font-bold py-5 pt-10">
               That’s why 100,000+ Love Frame
