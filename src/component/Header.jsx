@@ -7,9 +7,7 @@ const Header = () => {
         <div className="header w-full  bg-gray-500 flex  
          justify-between  text-white py-2 mx-auto">
           <a href="/">FRAME</a>
-          <a className="lg:hidden" href="/">
-            Drop
-          </a>
+         
           
           <ul className=" text-white  lg:visible flex space-x-4 mr-3">
               <li><Link to='/'>Home</Link></li>
