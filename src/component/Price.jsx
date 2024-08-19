@@ -17,7 +17,7 @@ const Price = () => {
               the far World of Grammar.
             </p>
           </div>
-          <div className="card flex flex-col gap-5 p-7 mx-auto md:grid md:grid-cols-2 lg:grid lg:grid-cols-3">
+          <div className="card flex flex-col gap-5 p-3 mx-auto md:grid md:grid-cols-2 lg:grid lg:grid-cols-3">
             <Cardp />
             <Cardp />
             <Cardp />
