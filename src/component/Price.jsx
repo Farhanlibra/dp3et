@@ -6,7 +6,7 @@ const Price = () => {
     <div>
          <div className="price flex flex-col mx-auto">
           <div className="heading">
-            <h1 className="text-center text-xl font-bold  mx-autopy-5">
+            <h1 className="text-center text-2xl font-bold  mx-auto py-5">
               Choose the plan that’s right for your business
             </h1>
             <hr className="text-blue-900 font-extrabold w-9 text-center mx-auto py-5" />
