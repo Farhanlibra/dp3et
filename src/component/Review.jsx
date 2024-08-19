@@ -11,7 +11,7 @@ const Review = () => {
               That’s why 100,000+ Love Frame
             </h1>
             <hr className="text-blue-900 font-extrabold w-9 text-center mx-auto py-5" />
-            <p className=" min-w-fit text-center mb-16 text-[18px]  mx-auto lg:mx-auto lg:w-[650px]">
+            <p className=" w-[280px] text-center mb-16 text-[18px]  mx-auto lg:mx-auto lg:w-[650px]">
               Even the all-powerful Pointing has no control about the blind
               texts it is an almost unorthographic life One day however a small
               line of blind text by the name of Lorem Ipsum decided to leave for
